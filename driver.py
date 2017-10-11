@@ -1,3 +1,6 @@
+# This was made for one of the projects in this course:
+# https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-1
+
 import sys
 import queue
 import time
